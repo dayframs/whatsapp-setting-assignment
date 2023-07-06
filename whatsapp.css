@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+header {
+    background-color: rgb(0, 168, 132);
+    /* padding: 25px;
+    padding-bottom: 100px; */
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px;
+    /* margin-right: 60px; */
+    min-height: 30vh;
+}
+.button {
+    background-color:  rgb(0, 168, 132);
+    color: white;
+    font-weight: 700;
+}
+main {
+    width: 70%;
+    margin-inline: auto;
+    box-shadow: 0 0 5px grey;
+    line-height: 50px;
+    background-color: white;
+    margin-top: -110px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    min-height: 70vh;
+    display: grid;
+    padding-top: 60px;
+    color: grey;
+}
+.list {
+    margin-left: 32px;
+}
+.class1 {
+    display: inline-block;
+    width: 480px;
+    margin-left: 40px;
+    vertical-align: top;
+    margin-right: 45px;
+}
+.class2 {
+    display: inline-block;
+    width: 40%;
+    width: 260px;
+    margin-right: 40px;
+}
+.class3 {
+    background-color: rgb(241, 238, 238);
+    text-align: center;
+    padding-top: 30px;
+}
+.class4 {
+    padding-bottom: 100px;
+}
+.class5 {
+    font-size: 30px;
+    font-weight: 4px;
+}
+.class6 {
+    color: rgb(0, 128, 105)
+}
+h2 {
+    font-weight: 100;
+    margin-left: 20px;
+    margin-bottom: 50px;
+    font-size: 27px;
+}
+.img {
+    height: 300px;
+}
+.img2 {
+    width: 47px;
+    vertical-align: middle;
+    margin-left: 190px;
+    padding-top: 20px;
+    margin-right: 10px;
+}
+.button {
+    display: inline-block;
+    vertical-align: middle;
+    padding-top: 20px;
+    font-size: 12px;
+}
