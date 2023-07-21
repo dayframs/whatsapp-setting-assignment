@@ -1,0 +1,204 @@
+@media (max-width: 600px) {
+
+header {
+    font-size: 12px;
+}
+.class8 {
+    margin-left: -120px;
+}
+main {
+    font-size: 16px;
+    min-height: 70vh;
+    display: flex;
+    padding-top: 40px;
+    color: grey;
+    max-width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+.list {
+    margin-left: 5px;
+}
+.class1 {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    width: 80%;
+    margin-inline: auto;
+    vertical-align: top;
+}
+.class2 {
+    width: 80%;
+    margin-left: 25px;
+}
+.class3 {
+    background-color: rgb(241, 238, 238);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    margin-inline: auto;
+    padding-top: 30px;
+}
+.class5 {
+    font-size: 20px;
+    font-weight: 4px;
+}
+.class6 {
+    color: rgb(0, 128, 105);
+}
+.class7 {
+    width: 70%;
+    margin-inline:auto;
+}
+.class9 {
+    font-size: 14px;
+    text-align: left;
+}
+.class10 {
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+}
+
+@media (min-width: 601px) {
+
+header {
+    font-size: 14px;
+}
+.class8 {
+    margin-left: -80px;
+}
+main {
+    min-height: 70vh;
+    display: flex;
+    padding-top: 40px;
+    color: grey;
+    max-width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+.list {
+    margin-left: 5px;
+}
+.class9 {
+    font-size: 16px;
+    text-align: center;
+}
+.class10 {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+}
+.class1 {
+    width: 100%;
+}
+.class2 {
+    width: 80%;
+    margin-left: 5px;
+}
+
+.class3 {
+    background-color: rgb(241, 238, 238);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+    width: 100%;
+    padding-top: 30px;
+}
+.class4 {
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.class5 {
+    font-size: 20px;
+    font-weight: 4px;
+} 
+.class6 {
+    color: rgb(0, 128, 105);
+}
+.class7 {
+    width: 70%;
+    margin-inline:auto;
+}
+}
+
+@media (min-width: 800px) {
+
+header {
+    font-size: 14px;
+}
+.class8 {
+    margin-left: 10px;
+}
+main {
+    font-size: 16px;
+    min-height: 70vh;
+    display: flex;
+    padding-top: 40px;
+    color: grey;
+    max-width: 90%;
+    display: flex;
+    flex-direction: column;
+}
+.list {
+    margin-left: 5px;
+}
+.class9 {
+    font-size: 24px;
+    text-align: center;
+}
+.class10 {
+    display: flex;
+    padding-bottom: 40px;
+    justify-content: center;
+    align-items: center;
+}
+.class1 {
+    width: 100%;
+}
+.class2 {
+    width: 80%;
+    margin-left: 5px;
+    /* margin-top: -10px; */
+}
+
+.class3 {
+    background-color: rgb(241, 238, 238);
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    gap: 10px; 
+    width: 100%;
+    padding-top: 30px;
+}
+.class4 {
+    padding-bottom: 20px;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    gap: 10px;
+}
+.class5 {
+    font-size: 20px;
+    font-weight: 4px;
+} 
+.class6 {
+    color: rgb(0, 128, 105);
+}
+.class7 {
+    width: 70%;
+    margin-inline:auto;
+}
+}
